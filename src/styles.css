@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face{
+    font-family: 'MyWebFont';
+    src: url('/src/assets/fonts/web fonts/scriptina_regular_macroman/scriptina-webfont.woff') format('woff');
+
+}
+a.simple-text{
+ font-family: 'MyWebFont', Arial, sans-serif; }
